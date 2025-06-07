@@ -6,6 +6,27 @@
 
 PyDBox is a comprehensive Python toolbox for data science and machine learning tasks. It provides a collection of tools and utilities to make data analysis and processing easier and more efficient.
 
+## 📚 Publication
+
+The TESI (Time-series Euclidean Space Interpolation) algorithm has been published in:
+
+**Trigonometric-Euclidean-Smoother Interpolator (TESI) for continuous time-series and non-timeseries data augmentation for deep neural network applications in agriculture**  
+*Computers and Electronics in Agriculture, Volume 206, 107646*  
+Impact Factor: 6.757 (Q1)  
+DOI: [10.1016/j.compag.2023.107646](https://doi.org/10.1016/j.compag.2023.107646)
+
+If you use TESI in your research, please cite:
+```bibtex
+@article{TESI2023,
+    title = {Trigonometric-Euclidean-Smoother Interpolator (TESI) for continuous time-series and non-timeseries data augmentation for deep neural network applications in agriculture},
+    journal = {Computers and Electronics in Agriculture},
+    volume = {206},
+    pages = {107646},
+    year = {2023},
+    doi = {10.1016/j.compag.2023.107646}
+}
+```
+
 ## 🚀 Features
 
 - **Modular Design**: Easy to use, extend, and integrate with existing workflows
@@ -28,6 +49,8 @@ TESI is a powerful interpolation module that implements various methods for time
 - Financial time series analysis
 - Sensor data processing
 - Scientific data interpolation
+- Agricultural data analysis
+- Deep learning data augmentation
 - Any sequential data that requires sophisticated interpolation
 
 #### Quick Start
@@ -115,7 +138,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 - **Derraz Radhwane**
-  - GitHub: [@derrazradhwane](https://github.com/derrazradhwane)
+  - GitHub: [@derrazradhwanedz](https://github.com/derrazradhwanedz)
   - Email: derrazradhwanedz@gmail.com
 
 ## 📚 Documentation
@@ -132,4 +155,4 @@ For detailed documentation and examples, visit our [GitHub repository](https://g
 
 ## 🙏 Acknowledgments
 
-Special thanks to all contributors and users who have helped improve this package. 
+Special thanks to all contributors and users who have helped improve this package.
